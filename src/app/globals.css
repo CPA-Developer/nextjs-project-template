@@ -193,21 +193,19 @@
 
 /* Neon Text */
 .neon-text {
-  color: #00ffff;
+  color: #4dd0e1;
   text-shadow: 
-    0 0 5px #00ffff,
-    0 0 10px #00ffff,
-    0 0 15px #00ffff,
-    0 0 20px #00ffff;
+    0 0 3px rgba(77, 208, 225, 0.4),
+    0 0 6px rgba(77, 208, 225, 0.2),
+    0 0 9px rgba(77, 208, 225, 0.1);
 }
 
 .neon-text-purple {
-  color: #8b5cf6;
+  color: #a78bfa;
   text-shadow: 
-    0 0 5px #8b5cf6,
-    0 0 10px #8b5cf6,
-    0 0 15px #8b5cf6,
-    0 0 20px #8b5cf6;
+    0 0 3px rgba(167, 139, 250, 0.4),
+    0 0 6px rgba(167, 139, 250, 0.2),
+    0 0 9px rgba(167, 139, 250, 0.1);
 }
 
 /* Floating Animation */
